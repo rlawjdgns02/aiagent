@@ -1,0 +1,20 @@
+# Python 3.11.13
+
+# LangGraph
+langgraph==1.2.16
+langgraph-checkpoint==4.3.0
+langchain-core==1.6.12
+
+# LLM API, .env
+openai==3.14.0
+python-dotenv==1.2.3
+
+# 문서·메모리 검색 (임베딩)
+numpy==2.3.3
+sentence-transformers==6.2.0
+transformers==5.17.0
+torch==2.14.0
+
+# 테스트 노트북 실행
+ipykernel==6.30.1
+ipython==9.5.0
