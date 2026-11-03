@@ -1,0 +1,51 @@
+[
+  {
+    "id": "travel_lodging_A",
+    "text": "Overseas travel lodging limit. The maximum lodging reimbursement is 180 dollars per night.",
+    "source": "travel_lodging_A.txt",
+    "year": 2024,
+    "status": "retired",
+    "category": "travel"
+  },
+  {
+    "id": "travel_lodging_B",
+    "text": "For international business trips, employees may claim accommodation expenses up to 220 dollars per night.",
+    "source": "travel_lodging_B.txt",
+    "year": 2026,
+    "status": "active",
+    "category": "travel"
+  },
+  {
+    "id": "travel_request",
+    "text": "International business travel requests must be approved by the department head before departure.",
+    "source": "travel_request.txt",
+    "year": 2026,
+    "status": "active",
+    "category": "travel"
+  },
+  {
+    "id": "usb_purchase",
+    "text": "USB storage device purchase requests must include a business justification and a valid cost center.",
+    "source": "usb_purchase.txt",
+    "year": 2026,
+    "status": "active",
+    "category": "security"
+  },
+  {
+    "id": "usb_security",
+    "text": "Personal removable storage devices, including USB flash drives, must not be connected to company computers.",
+    "source": "usb_security.txt",
+    "year": 2026,
+    "status": "active",
+    "category": "security"
+  },
+  {
+    "id": "meal_expense",
+    "text": "Meal expenses on approved business trips are reimbursed up to 60 dollars per day.",
+    "source": "meal_expense.txt",
+    "year": 2026,
+    "status": "active",
+    "category": "expense"
+  }
+]
+
